@@ -37,7 +37,7 @@ See our <a aria-label="atomiql demo" href="https://www.atomiql.com/#/#demo">webs
 
 Feel free to message one of the contributors below if you're interested in contributing to AtomiQL
 
-- [Xiao Li](https://github.com/xiaotongli)
+- [Jack Noi](https://github.com/passion-127)
 - [Pat Liu](https://github.com/patrickliuhhs)
 - [Paulo Choi](https://github.com/paulochoi)
 - [Thomas Harper](https://github.com/tommyrharper)
